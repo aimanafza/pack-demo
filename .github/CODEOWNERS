@@ -1,21 +1,21 @@
 # PACK engineering ownership
 
 # Auth, waitlist, invites, email
-/backend/app/api/routes/auth.py          @arinaalibayeva
-/backend/app/api/routes/waitlist.py      @arinaalibayeva
-/backend/app/services/auth_service.py    @arinaalibayeva
-/backend/app/services/email.py           @arinaalibayeva
-/backend/app/models/user.py              @arinaalibayeva
-/backend/app/models/waitlist.py          @arinaalibayeva
-/frontend/src/components/auth/           @arinaalibayeva
+/backend/app/api/routes/auth.py          @aimanafza
+/backend/app/api/routes/waitlist.py      @aimanafza
+/backend/app/services/auth_service.py    @aimanafza
+/backend/app/services/email.py           @aimanafza
+/backend/app/models/user.py              @aimanafza
+/backend/app/models/waitlist.py          @aimanafza
+/frontend/src/components/auth/           @aimanafza
 
 # Trips, packing, review swipe
-/backend/app/api/routes/trips.py         @arinaalibayeva
-/backend/app/api/routes/pack.py          @arinaalibayeva
-/backend/app/models/trip.py              @arinaalibayeva
-/frontend/src/components/trips/          @arinaalibayeva
-/frontend/src/components/packing/        @arinaalibayeva
-/frontend/src/components/review/         @arinaalibayeva
+/backend/app/api/routes/trips.py         @Nazym-MU
+/backend/app/api/routes/pack.py          @Nazym-MU
+/backend/app/models/trip.py              @Nazym-MU
+/frontend/src/components/trips/          @Nazym-MU
+/frontend/src/components/packing/        @Nazym-MU
+/frontend/src/components/review/         @Nazym-MU
 
 # Wardrobe, uploads, images
 /backend/app/api/routes/wardrobe.py      @Nazym-MU
